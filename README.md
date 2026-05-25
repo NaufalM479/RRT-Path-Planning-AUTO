@@ -2,9 +2,7 @@
 Path planning in an indoor room with several obstacles for robotics using Rapidly-exploring Random Tree algorithm.
 <br>
 <br>
-This version automates performance testing with different set of arbitrary parameters
-
-<video src="https://github.com/NaufalM479/RRT-Path-Planning-AUTO/blob/main/Assets/Demo.mp4" width="100%" controls></video>
+This version automates performance testing with different set of arbitrary parameters, watch demo on ./Assets/Demo.mp4
 
 How to run.
 1. Install python3
